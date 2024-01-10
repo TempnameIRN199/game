@@ -16,6 +16,7 @@ label start:
     show eileen happy
 
     e "Вы создали новую игру Ren'Py."
+    e "fxck you in my room"
     
     e "Добавьте сюжет, изображения и музыку и отправьте её в мир!"
 
